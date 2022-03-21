@@ -10,3 +10,8 @@ Then we can use those clips within some reels experience (TikTok, …) and use t
 Then use this to evolve the story (rinse & repeat) – basically explore / exploit algo.
 
 My conjecture is that at some point the compute cost to generate the story is lower than the ad revenue you can generate per story, leading to positive returns at scale. Kind of like Project Summary - Docs (botto.com) on steroids
+
+First examples of pseudo-generated videos (using wav2lip from Paddle Paddle) are here:
+
+[Video 1 (on my YouTube channel)](https://www.youtube.com/watch?v=pE0BppJFylU)
+[Video 2 (on my YouTube channel)](https://www.youtube.com/watch?v=_rvB5Tng_5k)
