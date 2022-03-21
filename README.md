@@ -14,4 +14,5 @@ My conjecture is that at some point the compute cost to generate the story is lo
 First examples of pseudo-generated videos (using wav2lip from Paddle Paddle) are here:
 
 [Video 1 (on my YouTube channel)](https://www.youtube.com/watch?v=pE0BppJFylU)
+
 [Video 2 (on my YouTube channel)](https://www.youtube.com/watch?v=_rvB5Tng_5k)
